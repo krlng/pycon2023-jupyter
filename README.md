@@ -1,3 +1,6 @@
+More info on the tutorial website: [Tutorial-Page](https://pyconde2023-jupyterlite.readthedocs.io/en/latest/tutorial.html#what-we-will-be-building)
+
+
 # xeus-python + JupyterLite demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/retro/notebooks/?path=demo.ipynb)
