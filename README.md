@@ -2,6 +2,7 @@
 
 More info on the tutorial website: [Tutorial-Page](https://pyconde2023-jupyterlite.readthedocs.io/en/latest/tutorial.html#what-we-will-be-building)
 
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://krlng.github.io/pycon2023-jupyter/lab)
 
 # xeus-python + JupyterLite demo
 
